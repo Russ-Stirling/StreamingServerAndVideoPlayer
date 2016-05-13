@@ -1,0 +1,9 @@
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\3314Assignment1\StreamingServer\bin\Debug\StreamingServer.exe.config
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\3314Assignment1\StreamingServer\obj\Debug\StreamingServer.csprojResolveAssemblyReference.cache
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\3314Assignment1\StreamingServer\obj\Debug\StreamingServer.Form1.resources
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\3314Assignment1\StreamingServer\obj\Debug\StreamingServer.Properties.Resources.resources
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\3314Assignment1\StreamingServer\obj\Debug\StreamingServer.csproj.GenerateResource.Cache
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\3314Assignment1\StreamingServer\bin\Debug\StreamingServer.exe
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\3314Assignment1\StreamingServer\bin\Debug\StreamingServer.pdb
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\3314Assignment1\StreamingServer\obj\Debug\StreamingServer.exe
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\3314Assignment1\StreamingServer\obj\Debug\StreamingServer.pdb

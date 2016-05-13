@@ -1,0 +1,9 @@
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\3314Assignment2\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\3314Assignment2\VideoPlayer\bin\Debug\VideoPlayer.exe
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\3314Assignment2\VideoPlayer\bin\Debug\VideoPlayer.pdb
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\3314Assignment2\VideoPlayer\obj\Debug\VideoPlayer.csprojResolveAssemblyReference.cache
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\3314Assignment2\VideoPlayer\obj\Debug\VideoPlayer.Form1.resources
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\3314Assignment2\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\3314Assignment2\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.Cache
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\3314Assignment2\VideoPlayer\obj\Debug\VideoPlayer.exe
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\3314Assignment2\VideoPlayer\obj\Debug\VideoPlayer.pdb
